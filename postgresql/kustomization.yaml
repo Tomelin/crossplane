@@ -4,4 +4,4 @@ kind: Kustomization
 
 resources:
 - postgresql.yaml
-- https://github.com/Tomelin/crossplane/blob/main/resourceGroup/resourceGroup.yaml
+# - https://github.com/Tomelin/crossplane/blob/main/resourceGroup/resourceGroup.yaml
